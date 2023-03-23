@@ -1,0 +1,24 @@
+
+// Do not edit directly
+// Generated on Thu, 23 Mar 2023 13:28:54 GMT
+
+$boxShadow01: 0px 1px 5px 0px rgba(0, 0, 0, 0.06), 0px 3px 1px -2px rgba(0, 0, 0, 0.07), 0px 2px 2px 0px rgba(0, 0, 0, 0.03); // Something else!
+$boxShadow02: 0px 3px 6px 0px rgba(0, 0, 0, 0.06), 0px 2px 12px -2px rgba(0, 0, 0, 0.07), 0px 4px 6px 0px rgba(0, 0, 0, 0.03); // second box shadow 
+$boxShadow03: 0px 4px 6px 0px rgba(0.11, 0.14, 0.14, 0.06), 0px 8px 12px -2px rgba(0.11, 0.14, 0.14, 0.07), 0px 6px 2px 0px rgba(0.11, 0.14, 0.14, 0.03); // third box shadow 
+$boxShadow04: 0px 4px 8px 0px rgba(0, 0, 0, 0.06), 0px 8px 20px -2px rgba(0, 0, 0, 0.07), 0px 8px 8px 0px rgba(0, 0, 0, 0.03); // fourth box shadow 
+$boxShadow05: 0px -3px 6px 0px rgba(0, 0, 0, 0.06), 0px -2px 12px -2px rgba(0, 0, 0, 0.07), 0px -4px 6px 0px rgba(0, 0, 0, 0.03); // fifth box shadow 
+$boxShadow06: 0px 1px 5px 0px rgba(0, 0, 0, 0.24), 0px 3px 1px -2px rgba(0, 0, 0, 0.28), 0px 2px 2px 0px rgba(0, 0, 0, 0.12); // sixth box shadow 
+$boxShadow07: 0px 3px 6px 0px rgba(0, 0, 0, 0.24), 0px 2px 12px -2px rgba(0, 0, 0, 0.32), 0px 4px 6px 0px rgba(0, 0, 0, 0.08); // no one will read this for now
+$boxShadow08: 0px 4px 6px 0px rgba(0, 0, 0, 0.16), 0px 8px 12px -2px rgba(0, 0, 0, 0.24), 0px 2px 6px 0px rgba(0, 0, 0, 0.12); // 0,2,6,0 rgba(0,0,0,.12) 0,8,12,-2 rgba(0,0,0,.24) 0,4,6,0 rgba(0,0,0,.16)
+$boxShadow09: 0px 4px 8px -2px rgba(0, 0, 0, 0.24), 0px 8px 20px -3px rgba(0, 0, 0, 0.4), 0px 8px 8px 0px rgba(0, 0, 0, 0.16); // 0,8,8,0 rgba(0,0,0,.16) 0,3,20,-3 rgba(0,0,0,.40) 0,4,8,-2 rgba(0,0,0,.24)
+$boxShadow10: 0px -3px 6px 0px rgba(0, 0, 0, 0.24), 0px -2px 12px -2px rgba(0, 0, 0, 0.32), 0px -4px 6px 0px rgba(0, 0, 0, 0.08); // 0,-4,6,0 rgba(0,0,0,.08) 0,-2,12,-2 rgba(0,0,0,.32) 0,-3,6,0rgba(0,0,0,.24)
+$elevation01: 0px 1px 5px 0px rgba(0, 0, 0, 0.06), 0px 3px 1px -2px rgba(0, 0, 0, 0.07), 0px 2px 2px 0px rgba(0, 0, 0, 0.03); // Used for Map markers and Cards.
+$elevation02: 0px 3px 6px 0px rgba(0, 0, 0, 0.06), 0px 2px 12px -2px rgba(0, 0, 0, 0.07), 0px 4px 6px 0px rgba(0, 0, 0, 0.03); // Used for raised Buttons (e.g. over a map), knobs on sliders  and Dropdown input fields.
+$elevation03: 0px 4px 6px 0px rgba(0.11, 0.14, 0.14, 0.06), 0px 8px 12px -2px rgba(0.11, 0.14, 0.14, 0.07), 0px 6px 2px 0px rgba(0.11, 0.14, 0.14, 0.03); // Used for FABs and sticky CTAs, sticky headers, navigation  bars or Banners and Notifications.
+$elevation04: 0px 4px 8px 0px rgba(0, 0, 0, 0.06), 0px 8px 20px -2px rgba(0, 0, 0, 0.07), 0px 8px 8px 0px rgba(0, 0, 0, 0.03); // Used for Modals.
+$elevation05: 0px -3px 6px 0px rgba(0, 0, 0, 0.06), 0px -2px 12px -2px rgba(0, 0, 0, 0.07), 0px -4px 6px 0px rgba(0, 0, 0, 0.03); // Used for Bottom Sheets.
+$elevationInverse01: 0px 1px 5px 0px rgba(0, 0, 0, 0.24), 0px 3px 1px -2px rgba(0, 0, 0, 0.28), 0px 2px 2px 0px rgba(0, 0, 0, 0.12); // Used for Map markers and Cards.
+$elevationInverse02: 0px 3px 6px 0px rgba(0, 0, 0, 0.24), 0px 2px 12px -2px rgba(0, 0, 0, 0.32), 0px 4px 6px 0px rgba(0, 0, 0, 0.08); // Used for raised Buttons (e.g. over a map), knobs on sliders  and Dropdown input fields.
+$elevationInverse03: 0px 4px 6px 0px rgba(0, 0, 0, 0.16), 0px 8px 12px -2px rgba(0, 0, 0, 0.24), 0px 2px 6px 0px rgba(0, 0, 0, 0.12); // Used for FABs and sticky CTAs, sticky headers, navigation  bars or Banners and Notifications.
+$elevationInverse04: 0px 4px 8px -2px rgba(0, 0, 0, 0.24), 0px 8px 20px -3px rgba(0, 0, 0, 0.4), 0px 8px 8px 0px rgba(0, 0, 0, 0.16); // Used for Modal.
+$elevationInverse05: 0px -3px 6px 0px rgba(0, 0, 0, 0.24), 0px -2px 12px -2px rgba(0, 0, 0, 0.32), 0px -4px 6px 0px rgba(0, 0, 0, 0.08); // Used for Bottom Sheets and bottom menus.
